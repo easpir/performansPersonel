@@ -1,0 +1,4 @@
+# personalDetail
+# performansPersonel
+# performansPersonel
+# performansPersonel
